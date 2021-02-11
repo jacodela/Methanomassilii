@@ -4,6 +4,10 @@ Code associated with the *Methanomassiliicoccales* ecology and adaptations paper
 
 ## Citation
 
+Genomic Insights into Adaptations of Trimethylamine-Utilizing Methanogens to Diverse Habitats, Including the Human Gut
+Jacobo de la Cuesta-Zuluaga, Tim D. Spector, Nicholas D. Youngblut, Ruth E. Ley
+mSystems Feb 2021, 6 (1) e00939-20; [DOI: 10.1128/mSystems.00939-20](https://msystems.asm.org/content/6/1/e00939-20)
+
 ## Dependencies
 
 * Linux/Unix
